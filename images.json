@@ -502,6 +502,16 @@
             "bgImageName": "color_fan",
             "bgImagePath": "https://raw.githubusercontent.com/color-by-number-games/colorfan/refs/heads/main/n199.jpeg",
             "outlinePath": "https://raw.githubusercontent.com/color-by-number-games/colorfan/refs/heads/main/n200.png"
+        },
+        {
+            "bgImageName": "color_fan",
+            "bgImagePath": "https://raw.githubusercontent.com/color-by-number-games/colorfan/refs/heads/main/n201.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/color-by-number-games/colorfan/refs/heads/main/n202.png"
+        },
+        {
+            "bgImageName": "color_fan",
+            "bgImagePath": "https://raw.githubusercontent.com/color-by-number-games/colorfan/refs/heads/main/n203.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/color-by-number-games/colorfan/refs/heads/main/n204.png"
         }
     ]
 }
